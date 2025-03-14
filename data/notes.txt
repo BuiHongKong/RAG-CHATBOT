@@ -1,0 +1,3 @@
+- Merge MBTI theory with NLP embeddings
+- GPT-4 performs better with chunked context than whole PDF
+- Try cosine sim vs MMR retrieval for follow-ups

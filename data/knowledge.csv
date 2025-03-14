@@ -1,0 +1,6 @@
+topic,description
+Jung,"Analytical psychology, typology"
+INTJ,"Strategic, future-focused personality type"
+ChromaDB,Embedding vector store
+LangChain,Framework for LLM pipelines
+GPT-4,"LLM by OpenAI, supports function calling"
