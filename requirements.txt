@@ -1,0 +1,9 @@
+dotenv
+argparse
+langchain_text_splitters
+langchain_openai
+langchain_chroma
+langchain_community
+langchain_core
+unstructured
+pypdf
